@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ---
 title: "README"
 author: "Kim Dancy"
+=======
+----
+title: "Practice Exam"
+author: "Karl Rohe"
+>>>>>>> 1a276e025f68d2d9140671a99a1b0381ff7698d4
 date: "2/27/2020"
 output: md_document
 ---
